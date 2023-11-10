@@ -15,4 +15,6 @@
 #Mini-Test-1&2
 
 ![Mini-Test-1](assets/Screenshot-source-code.png)
+
+# Mini-test-3(DISC-Test)
 ![Mini-Test-2](assets/Screenshot-DISC-Test.png)
